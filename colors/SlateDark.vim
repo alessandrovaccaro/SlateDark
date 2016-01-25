@@ -29,7 +29,7 @@ hi Statement guifg=CornflowerBlue ctermfg=lightblue
 hi Visual gui=none guifg=khaki guibg=olivedrab cterm=reverse
 hi WarningMsg guifg=salmon ctermfg=1
 :hi String guifg=SkyBlue ctermfg=darkcyan
-hi Comment term=bold ctermfg=11 guifg=grey40
+hi Comment term=bold ctermfg=11 guifg=lightgreen
 hi Constant guifg=#ffa0a0 ctermfg=brown
 hi Special guifg=darkkhaki ctermfg=brown
 hi Identifier guifg=salmon ctermfg=red
